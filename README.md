@@ -27,25 +27,25 @@ Easy Level
 
 ![Easy 1](./AudioDashImages/Easy%201.png?raw=true)
 
-Horse
+![Easy 1](./AudioDashImages/Easy%202.png?raw=true)
 
 Pause Menu
 
-Pause
+![Pause](./AudioDashImages/Pause.png?raw=true)
 
 Space Level
 
-Space
+![Space](./AudioDashImages/Medium.png?raw=true)
 
 Boat Level
 
-Boat
+![Boat](./AudioDashImages/Hard%201.png?raw=true)
 
-Boat
+![Boat](./AudioDashImages/Hard%202.png?raw=true)
 
 Cube Level
 
-Insane
+![Cube](./AudioDashImages/Insane%201.png?raw=true)
 
-Insane
+![Cube](./AudioDashImages/Insane%201.png?raw=true)
 
