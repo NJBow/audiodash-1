@@ -1,6 +1,6 @@
 AudioDash
 
-AudioDash is 3D video game which interacts with its soundtrack. The player can choose a level where they control either a horse, spaceship, fishing boat, or a peculiar cube thing to try avoid varying obstacles. The objective is to utilise the four lanes and make it to the end without hitting anything, (the cube has 16 lanes).
+AudioDash is a 3D video game which interacts with its soundtrack. The player can choose a level where they control either a horse, spaceship, fishing boat, or a peculiar cube thing to try avoid varying obstacles. The objective is to utilise the four lanes and make it to the end without hitting anything, (the cube has 16 lanes).
 
 The different controllable characters are specific to their surroundings and difficulty level. The horse is easy and travelling to the big city. The spaceship is medium and lost in space wondering why there is a dancing whale. The fishing boat is hard and enjoying the scenery. The cube is insane, with 16 lanes and has no idea what's going on.
 
