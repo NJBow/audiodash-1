@@ -25,7 +25,7 @@ Main Menu
 
 Easy Level
 
-Horse
+![Easy 1](./AudioDashImages/Easy%201.png?raw=true)
 
 Horse
 
