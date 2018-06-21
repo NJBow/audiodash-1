@@ -8,11 +8,12 @@ public class AudioEffect : MonoBehaviour {
 	public float startScale;
 	// Use this for initialization
 	void Start () {
-
+	// direction of transformation - X would cause lane collisions
 		startScale = transform.localScale.y;
 	}
 
 	// Update is called once per frame
+	// Update should occur 30 times per frame to create smoother transformation
 	void Update () {
 		float[] info = new float[detail];
 		AudioListener.GetOutputData (info, 0);
